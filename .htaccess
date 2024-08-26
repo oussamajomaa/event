@@ -1,0 +1,4 @@
+#RewriteEngine On
+
+# Redirect root URL to public directory
+#RewriteRule ^$ public/ [L]
